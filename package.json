@@ -1,7 +1,7 @@
 {
   "name": "dsh-thinkingview",
-  "description": "在输入框工具栏一键切换思考强度：把当前模型的推理档位（Off / Low / High / Max）摊成一排按钮，点一下即切，与官方模型菜单双向同步。",
-  "version": "0.0.1",
+  "description": "轻量化的QoL插件，可以在输入框工具栏处一键切换思考强度，点击切换。",
+  "version": "0.0.2",
   "private": true,
   "type": "module",
   "exports": {
